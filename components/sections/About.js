@@ -22,12 +22,11 @@ const About = () => {
           </div>
 
           <p className="mb-4 text-2xl xl:text-5xl">
-            Typical
+            Chronos
             <Tooltip text="No, not actually my first name">
               <span className="font-light text-stone">*</span>
             </Tooltip>
-            Mitul is a photographer based in Toronto, Canada dedicated to
-            defining <b className="font-mtl-bold">thoughtful</b> and{" "}
+            Appassionato di fotografia con base a Crotone <b className="font-mtl-bold">thoughtful</b> and{" "}
             <b className="font-mtl-bold">memorable experiences</b> through every
             capture.
           </p>
